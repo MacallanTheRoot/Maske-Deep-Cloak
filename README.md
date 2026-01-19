@@ -51,7 +51,7 @@
 
 | Main Dashboard | Before / After |
 |:---:|:---:|
-| ![GUI](docs/gui.png) | ![Comparison](docs/example.jpg) |
+| ![GUI](docs/gui.png) | ![Comparison](docs/example.png) |
 | *Dark Mode Cyberpunk UI* | *Secured vs Unsecured* |
 
 ---
@@ -89,7 +89,7 @@
 
 | Arayüz | Öncesi / Sonrası |
 |:---:|:---:|
-| ![GUI](docs/gui.png) | ![Comparison](docs/example.jpg) |
+| ![GUI](docs/gui.png) | ![Comparison](docs/example.png) |
 | *Modern Arayüz* | *Korumalı ve Korumasız* |
 
 ---
