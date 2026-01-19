@@ -1,0 +1,7 @@
+torch>=2.0.0
+torchvision>=0.15.0
+facenet-pytorch>=2.5.3
+customtkinter>=5.2.0
+pillow>=10.0.0
+matplotlib>=3.7.0
+pyinstaller>=6.0.0
